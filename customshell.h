@@ -1,14 +1,3 @@
-// Mykhailo Puhach, 23329993, csc1021, customshell stage 2
-
-/*
-**********************************************
-
-This work was done by Mykhailo Puhach for csc1021 project 1, stage 2.
-To complete this stage I took a lot of experience from csc1021 Lab 4/5 instructions and code.
-
-**********************************************
-*/
-
 #ifndef CUSTOMSHELL_H
 #define CUSTOMSHELL_H
 

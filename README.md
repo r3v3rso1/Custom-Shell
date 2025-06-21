@@ -1,5 +1,3 @@
-# Mykhailo Puhach, 23329993, csc1021, CustomShell - Stage 2
-
 ## Internal Commands
 
 The following internal commands are supported:
